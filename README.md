@@ -1,2 +1,1 @@
-# movie_cruizer_material
-Using Material UI Specs
+# movie_cruizer_assignement
